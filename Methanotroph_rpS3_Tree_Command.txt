@@ -1,0 +1,2 @@
+###RAxML version 8.2.9 released by Alexandros Stamatakis on July 20 2016.
+raxmlHPC-PTHREADS -s Methanotroph_rpS3_Modified_Alignment.fasta -n Methanotroph_rpS3_Modified_Alignment_RAxML -m PROTGAMMAWAG -N 100 -p 1234 -x 1234 -T 10 -f a
