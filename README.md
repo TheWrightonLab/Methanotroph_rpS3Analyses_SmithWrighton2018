@@ -75,7 +75,13 @@ Little to no modifications should be necessary to recreate the analyses and figu
 
 
 
-Corresponding author: 
+Co-corresponding authors:
+
+Smith, Garrett
+Department of Microbiology, College of Arts and Sciences, The Ohio State University
+Columbus, Ohio, 43210
+Email: smith.10284@osu.edu
+
 Wrighton, Kelly
 Department of Soil and Crop Science, College of Agricultural Sciences, Colorado State University
 Fort Collins, Colorado, 80523 
