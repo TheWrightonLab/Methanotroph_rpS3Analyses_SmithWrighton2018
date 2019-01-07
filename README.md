@@ -1,4 +1,4 @@
-ReadMe file for data generation and analysis described in the publication titled "Metagenomic approaches unearth methanotroph phylogenetic and metabolic diversity" released simultaneously in a focus issue of Current Issues in Molecular Biology (ISSN 1467-3037 [print]; ISSN 1467-3045 [electronic]) and book by Caister Academic Press.
+ReadMe file for data generation and analysis described in the publication titled "Metagenomic approaches unearth methanotroph phylogenetic and metabolic diversity" released simultaneously in a focus issue of Current Issues in Molecular Biology (https://doi.org/10.21775/9781912530045.03, ISSN 1467-3037 [print]; ISSN 1467-3045 [electronic]) and book by Caister Academic Press.
 
 
 
